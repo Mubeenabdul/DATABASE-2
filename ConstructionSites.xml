@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ConstructionSites>
+  <Site>
+    <SiteID>1</SiteID>
+    <Address>123 Greenway Blvd, San Francisco, CA</Address>
+    <ProjectStatus>Planning</ProjectStatus>
+  </Site>
+  <Site>
+    <SiteID>2</SiteID>
+    <Address>456 Bluebird Skyway, Los Angeles, CA</Address>
+    <ProjectStatus>In Progress</ProjectStatus>
+  </Site>
+  <Site>
+    <SiteID>3</SiteID>
+    <Address>789 Sunny Path, New York, NY</Address>
+    <ProjectStatus>Completed</ProjectStatus>
+  </Site>
+</ConstructionSites>

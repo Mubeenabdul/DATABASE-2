@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Projects>
+  <Project>
+    <ProjectID>1</ProjectID>
+    <Budget>250000</Budget>
+    <Deadline>2023-12-31</Deadline>
+  </Project>
+  <Project>
+    <ProjectID>2</ProjectID>
+    <Budget>500000</Budget>
+    <Deadline>2024-06-30</Deadline>
+  </Project>
+  <Project>
+    <ProjectID>3</ProjectID>
+    <Budget>350000</Budget>
+    <Deadline>2023-11-15</Deadline>
+  </Project>
+</Projects>

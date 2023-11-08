@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Suppliers>
+  <Supplier>
+    <SupplierID>1</SupplierID>
+    <Name>GreenCycle Corp</Name>
+    <MaterialProvided>Recycled Plastic Bricks</MaterialProvided>
+  </Supplier>
+  <Supplier>
+    <SupplierID>2</SupplierID>
+    <Name>RecycleBrick Innovations</Name>
+    <MaterialProvided>Recycled Plastic Bricks</MaterialProvided>
+  </Supplier>
+  <Supplier>
+    <SupplierID>3</SupplierID>
+    <Name>Bamboo Forest Ltd</Name>
+    <MaterialProvided>Bamboo</MaterialProvided>
+  </Supplier>
+</Suppliers>

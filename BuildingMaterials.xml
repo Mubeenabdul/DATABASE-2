@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<BuildingMaterials>
+  <Material>
+    <MaterialID>1</MaterialID>
+    <Name>Recycled Plastic Brick</Name>
+    <InventoryLevel>5000</InventoryLevel>
+  </Material>
+  <Material>
+    <MaterialID>2</MaterialID>
+    <Name>Bamboo</Name>
+    <InventoryLevel>3000</InventoryLevel>
+  </Material>
+  <Material>
+    <MaterialID>3</MaterialID>
+    <Name>Mycelium Insulation</Name>
+    <InventoryLevel>800</InventoryLevel>
+  </Material>
+</BuildingMaterials>
